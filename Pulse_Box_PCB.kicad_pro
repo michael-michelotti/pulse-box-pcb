@@ -649,6 +649,14 @@
     [
       "0bd5eb29-2b5b-490e-925f-be3f7983fbb8",
       "Root"
+    ],
+    [
+      "8ad61972-8b05-43c5-ad2b-be59ca250f28",
+      "Power"
+    ],
+    [
+      "9e5081fd-0af1-4253-8493-b9d2fbc88dcb",
+      "Signals"
     ]
   ],
   "text_variables": {}
