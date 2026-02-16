@@ -1,0 +1,20 @@
+Comment,Designator,Footprint,JLCPCB Part #
+10uF,"C1,C2,C5",Capacitor_SMD:C_0805_2012Metric,C15850
+47uF,"C3,C4",Capacitor_SMD:C_1210_3225Metric,C77101
+4.7uF,"C6,C22",Capacitor_SMD:C_0805_2012Metric,C1779
+100nF,"C7,C8,C10,C12,C13,C14,C15,C18,C19,C20",Capacitor_SMD:C_0402_1005Metric,C1525
+2.2uF,"C9,C11",Capacitor_SMD:C_0603_1608Metric,C23630
+20pF,"C16,C17",Capacitor_SMD:C_0402_1005Metric,C1554
+1uF,C21,Capacitor_SMD:C_0402_1005Metric,C52923
+Barrel_Jack,J1,Library:XKB_DC-005-5A-2.0,C381116
+Conn_02x05_Odd_Even,J2,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical,C239059
+USB_B_Micro,J3,Connector_USB:USB_Micro-B_Amphenol_10103594-0001LF_Horizontal,C428495
+Conn_01x03_Pin,J4,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,C49257
+10k,R1,Resistor_SMD:R_0402_1005Metric,C25744
+2.37k,R2,Resistor_SMD:R_0402_1005Metric,C294439
+100k,"R3,R4",Resistor_SMD:R_0402_1005Metric,C25741
+STM32F407VGTx,U1,Package_QFP:LQFP-100_14x14mm_P0.5mm,C919362
+SN74LV1T34DBV,U2,Package_TO_SOT_SMD:SOT-23-5,C100024
+AP2112K-3.3,U3,Package_TO_SOT_SMD:SOT-23-5,C23380830
+TPSM53604RDA,U4,Package_DFN_QFN:Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia,C2868001
+8MHz Crystal,Y1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C57131
