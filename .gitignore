@@ -40,3 +40,8 @@ fp-info-cache
 
 *.png
 *.zip
+
+.claude/
+*.md
+*.xlsx
+*.zip

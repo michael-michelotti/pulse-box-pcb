@@ -1,0 +1,102 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ef0e555f-a8f1-4b4b-84db-9e9da0748d24")
+	(paper "A4")
+	(title_block
+		(title "PulseBox Controller")
+		(rev "2.0")
+	)
+	(lib_symbols)
+	(sheet
+		(at 82.55 68.58)
+		(size 60.96 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9cdbe47c-d654-4511-bc17-02ce4a145abd")
+		(property "Sheetname" "Signals"
+			(at 82.55 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "signals.kicad_sch"
+			(at 82.55 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pulse_Box_PCB_v2"
+				(path "/ef0e555f-a8f1-4b4b-84db-9e9da0748d24"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 68.58)
+		(size 68.58 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ac0dde2f-bbaa-42bf-826d-318675a6462a")
+		(property "Sheetname" "Power"
+			(at 157.48 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 157.48 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Pulse_Box_PCB_v2"
+				(path "/ef0e555f-a8f1-4b4b-84db-9e9da0748d24"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
