@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 3.4,
-          "width": 1.5
+          "drill": 0.3,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -188,6 +188,7 @@
       ],
       "track_widths": [
         0.0,
+        0.5,
         1.0,
         2.0
       ],
@@ -466,7 +467,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Pulse_Box_PCB_v2.kicad_pro",
+    "filename": "Pulse_Box_Panel_v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -502,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./Fabrication",
+      "plot": "Fabrication/",
       "pos_files": "./",
       "specctra_dsn": "",
       "step": "",
@@ -578,6 +579,12 @@
         },
         {
           "group_by": false,
+          "label": "JLCPCB Part #",
+          "name": "JLCPCB Part #",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "KLC_S3.3",
           "name": "KLC_S3.3",
           "show": false
@@ -617,12 +624,6 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "JLCPCB Part #",
-          "name": "JLCPCB Part #",
-          "show": true
         }
       ],
       "filter_string": "",
@@ -674,16 +675,16 @@
   },
   "sheets": [
     [
-      "ef0e555f-a8f1-4b4b-84db-9e9da0748d24",
+      "4517addf-2697-4ea8-8228-462c8f611da2",
       "Root"
     ],
     [
-      "9cdbe47c-d654-4511-bc17-02ce4a145abd",
-      "Signals"
+      "2754b145-6a6c-4a50-8230-d5f3c5f3acb1",
+      "power"
     ],
     [
-      "ac0dde2f-bbaa-42bf-826d-318675a6462a",
-      "Power"
+      "df59875f-eeef-414a-8ccd-577ddbc838a1",
+      "Signals"
     ]
   ],
   "text_variables": {}
