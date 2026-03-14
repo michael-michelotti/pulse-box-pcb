@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "9.0.7"
     },
-    "CreationDate": "2026-03-13T00:39:54-07:00"
+    "CreationDate": "2026-03-13T01:16:04-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "Pulse_Box_PCB_v2",
-      "GUID": "50756c73-655f-4426-9f78-5f5043425f76",
+      "Name": "Pulse_Box_Panel_v1",
+      "GUID": "50756c73-655f-4426-9f78-5f50616e656c",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Pulse_Box_PCB_v2-F_Cu.gbr",
+      "Path": "Pulse_Box_Panel_v1-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Pulse_Box_PCB_v2-B_Cu.gbr",
+      "Path": "Pulse_Box_Panel_v1-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Pulse_Box_PCB_v2-F_Silkscreen.gbr",
+      "Path": "Pulse_Box_Panel_v1-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Pulse_Box_PCB_v2-B_Silkscreen.gbr",
+      "Path": "Pulse_Box_Panel_v1-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Pulse_Box_PCB_v2-F_Mask.gbr",
+      "Path": "Pulse_Box_Panel_v1-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Pulse_Box_PCB_v2-B_Mask.gbr",
+      "Path": "Pulse_Box_Panel_v1-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Pulse_Box_PCB_v2-Edge_Cuts.gbr",
+      "Path": "Pulse_Box_Panel_v1-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
