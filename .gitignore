@@ -42,7 +42,7 @@ fp-info-cache
 *.zip
 
 .claude/
-*.md
+CLAUDE.md
 *.xlsx
 *.zip
 archive/
